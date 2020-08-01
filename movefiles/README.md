@@ -1,6 +1,6 @@
 # Move Files
 Files:
-- mf.exe - python script compiled into an exe file using "PyInstaller". This is for those who do not have python installed on Windows OS.
+- mf.exe - python script compiled into an exe file using "PyInstaller". This is for those who do not have python installed.
 - mf.py - source code
 
 What does it do?
